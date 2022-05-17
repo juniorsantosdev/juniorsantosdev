@@ -1,8 +1,7 @@
 <div>
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/juniorsantosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorsantosdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorsantosdev&hide=contribs,prs&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsantosdev&layout=compact&show_icons=true&theme=tokyonight&langs_count=10"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
